@@ -8,7 +8,7 @@
 
 ## 📸 Live System Demo
 
-![NanoKV Architecture Demo](demo-architecture.png)
+![NanoKV Architecture Demo](NanoKV.jpeg)
 *Real-time cluster operation showing the Proxy (right) routing requests via Consistent Hashing to specific Shards (left), with persistence logs active.*
 
 ---
