@@ -26,3 +26,19 @@ graph TD
     NodeA --> Disk[(WAL Log)]
     NodeB --> Disk
     NodeC --> Disk
+```
+
+---
+
+## ⚡ Custom Development, Commercial Support & Deployment
+
+Need a custom **distributed backend service**, **low-latency key-value / caching layer**, **scalable REST API (Node.js / TypeScript / Java Spring Boot / Go)**, or **multi-container Docker & Linux server deployment** built for your infrastructure?
+
+I offer fast-turnaround software engineering services and custom proposals on Fiverr:
+
+[![Hire on Fiverr - Scalable REST APIs & Distributed Backends](https://img.shields.io/badge/Fiverr-Scalable_REST_APIs_%26_Backend_Architecture_(From_$35)-00b22d?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/thepimen/develop-scalable-rest-apis-with-nodejs-typescript-or-spring-boot)
+[![Hire on Fiverr - Docker, Microservices & Linux Servers](https://img.shields.io/badge/Fiverr-Docker,_Microservices_%26_Linux_Servers_(From_$35)-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/thepimen/dockerize-applications-and-build-microservices-on-linux-servers)
+
+* **24-Hour Express Delivery available** for urgent backend APIs, caching bottlenecks, and Docker/Linux deployments.
+* **Direct Engineering Portfolio & Services:** [luislazaro-dev.netlify.app/solutions](https://luislazaro-dev.netlify.app/solutions)
+
